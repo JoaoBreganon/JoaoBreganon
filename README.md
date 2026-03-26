@@ -40,5 +40,5 @@ Estou em busca da **minha primeira oportunidade de estágio**, pronto para aplic
 ---
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=JG12311&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat" alt="Contador de visitas" />
+ <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat" alt="Contador de visitas" />
 </p>
