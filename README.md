@@ -33,8 +33,8 @@ Estou em busca da **minha primeira oportunidade de estágio**, pronto para aplic
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JG12311&show_icons=true&locale=pt-br&theme=dracula&cache_seconds=3600" alt="Estatísticas do GitHub" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JG12311&layout=compact&locale=pt-br&theme=dracula&cache_seconds=3600" alt="Linguagens mais usadas" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&cache_seconds=3600" alt="Estatísticas do GitHub" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&cache_seconds=3600" alt="Linguagens mais usadas" width="370" />
 </p>
 
 ---
