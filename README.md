@@ -27,9 +27,14 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 ### ⚙️ Baixo Nível & Hardware
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
   <img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=nexperia&logoColor=white" alt="VHDL" />
+</p>
+
+### 💻 Alto Nível & Scripting
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### 🌐 Web & Frameworks
@@ -42,9 +47,8 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 🛠️ Ferramentas & Outros
+### 🛠️ Ferramentas
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -54,12 +58,16 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="170" />
+  <a href="https://github.com/JoaoBreganon">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&hide_border=true&v=1" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/JoaoBreganon">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&hide_border=true&v=1" alt="Linguagens mais usadas" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat&v=1" alt="Contador de visitas" />
 </p>
