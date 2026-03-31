@@ -22,12 +22,22 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 
 ---
 
-## 🚀 Minhas Tecnologias e Ferramentas
+## 🚀 Minhas Habilidades e Ferramentas (Por Categoria)
 
+<h3 align="center">🖥️ Linguagens de Programação</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,vue,html,css,tailwind,python,c,cpp,git,github&perline=11" alt="Minhas Habilidades" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,assembly" alt="Linguagens de Sistemas" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vhdl" alt="Linguagens de Hardware" /></a>
+</p>
+
+<h3 align="center">🌐 Web & Scripting</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,vue" alt="Web & Scripting" /></a>
+</p>
+
+<h3 align="center">🛠️ Ferramentas & DevOps</h3>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github" alt="Ferramentas" /></a>
 </p>
 
 ---
@@ -35,8 +45,19 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JoaoBreganon&theme=dracula&locale=pt_BR&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoBreganon&theme=dracula" alt="Linguagens mais usadas" />
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 100%; border: none;">
+    <tr>
+      <td style="border: none; padding: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="180" />
+      </td>
+      <td style="border: none; padding: 0 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&theme=dracula&hide_border=true&layout=compact" alt="Top Languages" height="180" />
+      </td>
+      <td style="border: none; padding: 0 10px;">
+        <img src="https://github-streak-stats.demolab.com/?user=JoaoBreganon&theme=dracula&hide_border=true&locale=pt_BR" alt="Streak Stats" height="180" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
