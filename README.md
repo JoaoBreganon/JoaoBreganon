@@ -59,15 +59,12 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 
 <div align="center">
   <a href="https://github.com/JoaoBreganon">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&hide_border=true&v=3" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/JoaoBreganon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&hide_border=true&v=3" alt="Linguagens mais usadas" />
+    <img src="https://metrics.lecoq.io/JoaoBreganon?theme=dracula" alt="GitHub Metrics" width="800" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat&v=3" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat" alt="Contador de visitas" />
 </div>
