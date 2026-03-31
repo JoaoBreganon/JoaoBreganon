@@ -57,17 +57,17 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/JoaoBreganon">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&hide_border=true&v=1" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&hide_border=true&v=3" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/JoaoBreganon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&hide_border=true&v=1" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&hide_border=true&v=3" alt="Linguagens mais usadas" />
   </a>
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat&v=1" alt="Contador de visitas" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat&v=3" alt="Contador de visitas" />
+</div>
