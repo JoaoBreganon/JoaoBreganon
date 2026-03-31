@@ -16,8 +16,7 @@
 
 Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixonado por criar soluções que unem a lógica robusta da engenharia com o desenvolvimento de software moderno. 
 
-- 💻 Foco no desenvolvimento web, construindo interfaces eficientes e tipadas utilizando **TypeScript**, JavaScript, e frameworks como Tailwind.
-- 🤖 Tenho uma base sólida e interesse prático em **Robótica, Sistemas Embarcados (FPGAs)** e desenvolvimento de software.
+- 💻 Foco no desenvolvimento web, construindo interfaces eficientes e tipadas utilizando **TypeScript**, JavaScript, e frameworks como **Vue.js** e Tailwind.
 - 🎯 Atualmente trabalhando em projetos práticos e em busca da minha **primeira oportunidade de estágio** para aplicar meu conhecimento técnico e agregar a um time de desenvolvimento.
 
 ---
@@ -26,7 +25,7 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,python,c,cpp,git,github,linux&perline=11" alt="Minhas Habilidades" />
+    <img src="https://skillicons.dev/icons?i=ts,js,vue,html,css,tailwind,python,c,cpp,git,github&perline=11" alt="Minhas Habilidades" />
   </a>
 </p>
 
@@ -35,10 +34,8 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/JoaoBreganon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&hide_border=true" alt="Linguagens mais usadas"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoBreganon&show_icons=true&locale=pt-br&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoBreganon&layout=compact&locale=pt-br&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ---
