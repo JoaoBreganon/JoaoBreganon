@@ -54,15 +54,14 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
 </p>
 
 ---
-
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   <a href="https://github.com/JoaoBreganon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBreganon&theme=dracula&hide_border=true&locale=pt_BR" alt="Estatísticas de Contribuição" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBreganon&theme=dracula&hide_border=true&locale=pt_BR" alt="Estatísticas de Contribuição" height="170" />
   </a>
   <a href="https://github.com/JoaoBreganon">
-    <img src="https://metrics.lecoq.io/JoaoBreganon?base=&plugin_languages=yes&plugin_languages_limit=6&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+    <img src="./github-metrics.svg" alt="Linguagens mais usadas" height="170" />
   </a>
 </div>
 
