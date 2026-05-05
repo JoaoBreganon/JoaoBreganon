@@ -53,20 +53,4 @@ Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-## 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com/JoaoBreganon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoBreganon&theme=dracula&hide_border=true&locale=pt_BR" alt="Estatísticas de Contribuição" height="170" />
-  </a>
-  <a href="https://github.com/JoaoBreganon">
-    <img src="./github-metrics.svg" alt="Linguagens mais usadas" height="170" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoBreganon&label=VISITANTES+NO+PERFIL&color=6A0DAD&style=flat" alt="Contador de visitas" />
-</div>
