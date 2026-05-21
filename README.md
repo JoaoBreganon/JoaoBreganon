@@ -16,9 +16,9 @@
 
 Sou estudante de **Engenharia de Computação** na **PUC-Campinas** e sou apaixonado por criar soluções que unem a lógica robusta da engenharia com o desenvolvimento de software moderno. 
 
-- 💻 Foco no desenvolvimento web, construindo interfaces eficientes e tipadas utilizando **TypeScript**, JavaScript, e frameworks como **Vue.js** e Tailwind.
-- 🤖 Tenho uma base sólida e interesse prático em **Robótica, Sistemas Embarcados (FPGAs)** e desenvolvimento de software.
-- 🎯 Atualmente trabalhando em projetos práticos e em busca da minha **primeira oportunidade de estágio** para aplicar meu conhecimento técnico e agregar a um time de desenvolvimento.
+- 💻 Foco no desenvolvimento web, construindo interfaces eficientes e tipadas utilizando **TypeScript**, JavaScript, e frameworks como **Vue.js**.
+- 🤖 Tenho uma base sólida e interesse prático em **Sistemas Embarcados (FPGAs)** e desenvolvimento de software.
+- 🎯 Atualmente trabalhando em projetos práticos para continuar evoluindo constantemente.
 
 ---
 
